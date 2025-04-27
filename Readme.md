@@ -38,7 +38,7 @@ Edit
 bash
 Copy
 Edit
-git clone https://github.com/your-username/feedback-management-system.git
+git clone 
 cd feedback-management-system
 ⚙️ Setting up the Backend (Server)
 Navigate to the server folder:
@@ -68,7 +68,7 @@ Edit
 npm run dev
 (Or use nodemon for auto-restart on changes.)
 
-🌐 Setting up the Frontend (React App)
+Setting up the Frontend (React App)
 Open a new terminal and go to the client folder:
 
 bash
@@ -89,7 +89,7 @@ Edit
 npm run dev
 By default, the frontend runs on http://localhost:5173.
 
-🧪 How to Test the Project
+How to Test the Project
 Start both the backend (http://localhost:5000) and frontend (http://localhost:5173).
 
 Open the frontend in your browser.
